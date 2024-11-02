@@ -1,1 +1,1 @@
-# explotaory_data_viz
+# exploratory data viz
